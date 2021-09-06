@@ -30,7 +30,7 @@ while συν == "Ν" or "N" :
     print(math.sqrt(num1))
  else:
           print("Αδύνατη πράξη ):")
- cont  = input("θες να συνεχίσεις enter/Ο: ")
+ cont  = input("θες να συνεχίσεις Ν/Ο: ")
       
  if cont == "O":
           print("Σε ευχαριστώ που με χρησιμοποίησες (:")
